@@ -1,2 +1,5 @@
-# https-github.com-actiontech-sqle
-https://github.com/actiontech/sqle
+对于 Yearning 和 Archery 孰强孰弱，已经争辩了好多年了，不可否认的是，两者都是优秀的开源工具。Yearning 部署简单，功能清晰明了，但只适用于 MySQL 。Archery 支持多种数据库，但部署稍微复杂些，功能更加丰富，支持诸多高级运维功能。
+�那你有没有想过，有一款宝藏的开源产品，结合了两者的所有优点于一身，只是过于低调，绝对值得一试。
+�SQLE 支持SQL审核、索引优化、事前审核、事后审核、支持标准化上线流程、原生支持 MySQL 审核且数据库类型可扩展的 SQL 审核工具。开源地址：https://github.com/actiontech/sqle 。SQLE 旨在提高DBA工作效率，改善SQL质量，规范工作流程。
+�每周发布新功能，每月发布新版本，新功能脱胎于爱可生大量客户的实际落地场景，还有海量社区用户的使用反馈。产品部署简单，采用Golang语言开发，大家可以安装试一试。
+�项目地址：https://github.com/actiontech/sqle 
